@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Preatty scary flight, I'm glad I'm alive."
+    },
+    {
+        "id": 2,
+        "date": "2017-04-01",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "Everything went better than expected, I'm learning too much."
+    },
+    {
+        "id": 3,
+        "date": "2017-06-15",
+        "weather": "windy",
+        "visibility": "poor",
+        "comment": "There was a lot of turbulence, the people was very sacared but we made it well to our destination."
+    },
+    {
+        "id": 4,
+        "date": "2017-05-11",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "I almost failed the landing but I survived."
+    }
+]
